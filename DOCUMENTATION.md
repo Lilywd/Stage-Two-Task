@@ -61,7 +61,7 @@ DELETE `/api/1/`
 Response
 ```json
 {}
-
+```
 ## Known Limitations and Assumptions
 - This documentation assumes a local development setup.
 - Authentication and authorization mechanisms are not implemented
