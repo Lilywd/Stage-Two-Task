@@ -67,7 +67,7 @@ python Api/tests.py
 
 ## UML Diagram
 
-<img width="400" alt="image" src="uml-diagram.jpg">
+<img width="400" alt="image" src="uml-diagram.png">
 
 ## Documentation
 
