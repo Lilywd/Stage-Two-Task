@@ -73,4 +73,4 @@ python Api/tests.py
 
 Kindly view the [DOCUMENTATION.md](DOCUMENTATION.md) file for more information on request & respose samples and usages.
 
-## Live URL: [link]()
+## Live URL: [link](https://stage-two-3091.onrender.com/api/)
