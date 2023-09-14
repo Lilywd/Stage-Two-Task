@@ -89,7 +89,7 @@ WSGI_APPLICATION = "Core.wsgi.application"
 # }
 
 DATABASES = {
-	"default": dj_database_url.parse(os.getenv("DATABASE_URL"))
+	"default": dj_database_url.parse("postgres://stage_two_dk6f_user:CkjnZF3TnPZIGDDkBQH66PIOVnEe5DP1@dpg-ck1a7kpgbqfc73egda2g-a.oregon-postgres.render.com/stage_two_dk6f")
 }
 
 # Password validation
